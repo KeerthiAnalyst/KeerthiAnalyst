@@ -27,10 +27,4 @@ Passionate about transforming raw data into meaningful business outcomes.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeerthiAnalyst&show_icons=true&theme=default)
-
----
-
 ⭐ Always building. Always learning.
