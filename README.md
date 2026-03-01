@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Keerthi Senthil  
 
-🎯 **Aspiring Data Analyst**  
-💡 SQL • Python • Power BI  
+🎯 **Aspiring Data Analyst**   
 
 Focused on sales analytics and customer behavior insights to support data-driven decision-making.  
 Passionate about transforming raw data into meaningful business outcomes.
@@ -24,12 +23,6 @@ Passionate about transforming raw data into meaningful business outcomes.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeerthiAnalyst&show_icons=true&theme=default)
 
 ---
 
